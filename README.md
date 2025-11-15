@@ -1,2 +1,2 @@
-# Analise-Exploratoria-de-Dados
-Atividade realizada da matéria Ciência de Dados da faculdade.
+# Análise Exploratória de Dados
+Atividade realizada na matéria Ciência de Dados da faculdade.
