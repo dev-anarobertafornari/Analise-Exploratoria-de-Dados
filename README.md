@@ -1,2 +1,8 @@
 # Análise Exploratória de Dados
-Atividade realizada na matéria Ciência de Dados da faculdade.
+Esta atividade realiza uma análise exploratória completa do dataset do Titanic.
+
+1. Bibliotecas Utilizadas
+Pandas — manipulação de dados
+NumPy — operações numéricas
+Matplotlib e Seaborn — visualização de dados
+Scikit-Learn — divisão dos dados em treino e tes
